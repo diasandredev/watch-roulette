@@ -20,7 +20,7 @@ function App() {
               color="textSecondary"
               align="center"
             >
-              random episodes from your favorite tv shows
+              lazy? let me choose for you
             </Typography>
             <SearchBar />
           </header>
